@@ -1,0 +1,18 @@
+.transactionList{
+    margin: auto;
+    border: 1px solid;
+    width: 500px;
+    height: 150px;
+    background-color: aliceblue;
+}
+
+.cash{
+    margin: auto;
+     border: 1px solid;
+     display: flex;
+     width: inherit;
+     height: 50px;
+     justify-content: space-around;
+     background-color: aliceblue;
+}
+

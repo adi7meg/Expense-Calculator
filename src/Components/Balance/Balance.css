@@ -1,0 +1,32 @@
+.Balance{
+    border: 1px solid;
+    width: 500px;
+   height: 100px;
+    margin: auto;
+    background-color: aliceblue;
+}
+
+.yourBalance{
+    font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #606165;
+}
+.balanceAmount{
+    font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 34px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #606165;
+}
